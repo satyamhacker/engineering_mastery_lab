@@ -34,9 +34,9 @@ Registry se pre-compiled, quantized weights download karna aur unki internal met
 
 **3. Practical Tasks (The Mission - NO CODE)**
 
-* **Task 1:** CLI tool ka use karke ek chhota lightweight model (e.g., `qwen` family ka 1.8 billion parameters wala tag) aur ek standard model (`llama3.2`) local disk par pull kar.
+* **Task 1:** CLI tool ka use karke ek chhota lightweight model (e.g., `qwen` family ka 1.8 billion parameters wala tag) aur ek standard model (`llama3.1`) local disk par pull kar.
 * **Task 2:** Apni local inventory print karwa aur check kar ki disk pe kitni GB space consume hui hai.
-* **Task 3:** Us `llama3.2` model ka X-Ray kar. (Hint: metadata 'show' karne wala flag use kar).
+* **Task 3:** Us `llama3.1` model ka X-Ray kar. (Hint: metadata 'show' karne wala flag use kar).
 * **The Logic:** Inspection command ke sath ek specific parameter flag laga taaki wo pura blueprint (Modelfile) print kare. Yahan tujhe `num_ctx` (context length) dhoondhna hai.
 
 **4. Definition of Done (Verification)**
@@ -58,7 +58,7 @@ Model parameters ko apni machine ki physical RAM/VRAM ke mutabiq map karna taaki
 **3. Practical Tasks (The Mission - NO CODE)**
 
 * **Task 1:** System monitoring tool on kar. Agar Windows/Nvidia pe hai toh GPU monitor karne wala command continuous watch mode mein chala. Mac/Linux pe hai toh htop/top use kar.
-* **Task 2:** CLI se `llama3.2` ke interactive prompt ke andar ghus (execute kar).
+* **Task 2:** CLI se `llama3.1` ke interactive prompt ke andar ghus (execute kar).
 * **The Logic:** Model disk se uth kar VRAM/RAM mein load hoga. Monitor kar ki exact kitne GB ka spike aaya.
 
 **4. Definition of Done (Verification)**
@@ -224,7 +224,7 @@ Poori chain banne ke baad usko execute karne ke standard tareeqe: ek sath poora 
 
 ---
 
-🧩 **Module 3: Execution Dynamics & LCEL** -> **Level 3.2: Pipeline Forging**
+🧩 **Module 3: Execution Dynamics & LCEL** -> **Level 3.1: Pipeline Forging**
 
 **1. The Concept (Ultra-Short)**
 Ek chain ka lamba output, doosri chain ke prompt mein as a dynamic variable inject karke tasks ko todna.
