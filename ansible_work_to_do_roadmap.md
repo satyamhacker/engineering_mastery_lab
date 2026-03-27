@@ -206,3 +206,5 @@ Guru-ji's Warning:
 "Sare Levels clear hue? Screenshots taiyar rakh! Tune poora Ansible Core Essentials roadmap successfully complete kar liya hai shishya. Agar aur koi naya tech notes hai tere paas jiska post-mortem karna hai, toh bindass paste kar aur type kar 'START'!"
 
 ========================================================================================
+
+upto above phase 1 module is done ...
