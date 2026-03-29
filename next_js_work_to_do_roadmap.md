@@ -283,3 +283,8 @@ Terminal mein chala: `npx create-next-app@latest devdiary`
 **Bhai, agar tune ye exactly aise copy-paste/type kar liya hai aur chal gaya hai, toh tune officially Next.js 15 ka sabse complex routing architecture implement kar liya hai.** Ye hai the "Why" and "What". Ek aisi real-world app jahan Devs fast list dekhte hain, popups mein task padhte hain, aur share karne par full pages dekhte hain.
 
 Bata mujhe, kaunsa step abhi kar raha hai aur kya output aa raha hai? Agar error aaye toh mujhe direct error code dena.
+
+========================================================================================
+ upto above all practicle done ....
+
+ ========================================================================================
